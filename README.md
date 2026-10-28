@@ -65,7 +65,7 @@ devPilot/
 ### 1. Clone and start the database
 
 ```bash
-git clone <your-repo-url>
+git clone <>
 cd devPilot
 docker compose up -d
 ```
