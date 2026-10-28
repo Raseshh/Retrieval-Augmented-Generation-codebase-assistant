@@ -251,7 +251,3 @@ Wait for indexing to finish (`indexStatus: READY`) before creating a chat sessio
 - GitHub access tokens are encrypted at rest before saving to the database
 - Session cookies are HttpOnly; CSRF is disabled for the SPA + cookie session pattern
 - Use strong values for `TOKEN_ENCRYPTOR_PASSWORD` and `TOKEN_ENCRYPTOR_SALT` in production
-
-## License
-
-This project is for educational purposes.
